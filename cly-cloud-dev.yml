@@ -2,7 +2,7 @@ logging.level.org.springframework.web:DEBUG
  
 spring:  
   application:
-    name: cly-cloud
+    name: cly-cloud-repo
   datasource:
     url: jdbc:mysql://localhost:3306/test
     username: root
