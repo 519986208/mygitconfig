@@ -1,5 +1,5 @@
 logging.level.org.springframework.web:DEBUG
- 
+
 spring:
   application:
     name: cly-cloud-repo
